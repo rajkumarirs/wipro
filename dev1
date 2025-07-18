@@ -243,6 +243,35 @@ msgstr "Vis de røde tønder noget aktion."
 msgid "Supporter"
 msgstr "Støtspillere"
 
+. achievement
+msgid "Invest over one million in a new game engine."
+msgstr "Invester over en million i en ny spilmotor."
+
+#. achievement title
+msgid "Gold"
+msgstr "Guld"
+
+#. achievement
+msgid "Sell half a million copies of a game without the help of a publisher."
+msgstr "Sælg en halv million kopier af et spil uden hjælp af en udgiver."
+
+#. achievement title
+msgid "Platinum"
+msgstr "Platin"
+
+#. achievement
+msgid "Sell one million copies of a game without the help of a publisher."
+msgstr "Sælg en million kopier af et spil uden hjælp af en udgiver."
+
+#. achievement title
+msgid "Diamond"
+msgstr "Diamant"
+
+
+
+
+
+
 #. achievement
 msgid "Support a young start-up. Buy the game."
 msgstr "Støt en ung firma. Køb spillet."
